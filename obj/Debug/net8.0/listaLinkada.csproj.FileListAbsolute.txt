@@ -1,0 +1,14 @@
+C:\Users\RL\desktop\csharp\ProjetosProprios\listaLinkada\bin\Debug\net8.0\listaLinkada.exe
+C:\Users\RL\desktop\csharp\ProjetosProprios\listaLinkada\bin\Debug\net8.0\listaLinkada.deps.json
+C:\Users\RL\desktop\csharp\ProjetosProprios\listaLinkada\bin\Debug\net8.0\listaLinkada.runtimeconfig.json
+C:\Users\RL\desktop\csharp\ProjetosProprios\listaLinkada\bin\Debug\net8.0\listaLinkada.dll
+C:\Users\RL\desktop\csharp\ProjetosProprios\listaLinkada\bin\Debug\net8.0\listaLinkada.pdb
+C:\Users\RL\desktop\csharp\ProjetosProprios\listaLinkada\obj\Debug\net8.0\listaLinkada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RL\desktop\csharp\ProjetosProprios\listaLinkada\obj\Debug\net8.0\listaLinkada.AssemblyInfoInputs.cache
+C:\Users\RL\desktop\csharp\ProjetosProprios\listaLinkada\obj\Debug\net8.0\listaLinkada.AssemblyInfo.cs
+C:\Users\RL\desktop\csharp\ProjetosProprios\listaLinkada\obj\Debug\net8.0\listaLinkada.csproj.CoreCompileInputs.cache
+C:\Users\RL\desktop\csharp\ProjetosProprios\listaLinkada\obj\Debug\net8.0\listaLinkada.dll
+C:\Users\RL\desktop\csharp\ProjetosProprios\listaLinkada\obj\Debug\net8.0\refint\listaLinkada.dll
+C:\Users\RL\desktop\csharp\ProjetosProprios\listaLinkada\obj\Debug\net8.0\listaLinkada.pdb
+C:\Users\RL\desktop\csharp\ProjetosProprios\listaLinkada\obj\Debug\net8.0\listaLinkada.genruntimeconfig.cache
+C:\Users\RL\desktop\csharp\ProjetosProprios\listaLinkada\obj\Debug\net8.0\ref\listaLinkada.dll
